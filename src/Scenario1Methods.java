@@ -1,3 +1,9 @@
+/*
+ * Written By: Jorge Suarez | Github: ohneyan
+ * Scenario Selected: 1
+ * Scenario Description: Guest explores Ports of Departure
+ * */
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
